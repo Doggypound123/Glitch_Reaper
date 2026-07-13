@@ -1,2 +1,2 @@
 # Glitch_Reaper
-a simple lightweight chrome extension that helps devs fix bugs faster by recording recent user actions, page details, errors, and browser info, then turning them into a bug 
+Glitch_Reaper is a simple lightweight Chrome extension built to exterminate devious bugs before they hide in the void. It husses down recent user actions, page details, browser information, and hidden errors. Every captured detail is forged into a clean, structured bug report that developers can investigate immediately. When the system breaks, Glitch_Reaper already knows what happened.
