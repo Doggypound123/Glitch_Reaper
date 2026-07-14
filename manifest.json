@@ -1,13 +1,17 @@
 {
   "manifest_version": 3,
+
   "name": "Glitch Reaper",
   "version": "1.0",
-  "description": "Record recent browser activity and generate bug reports.",
+
+  "description": "Automatically records browser activity and creates bug reports.",
 
   "permissions": [
     "storage",
     "tabs",
-    "activeTab"
+    "activeTab",
+    "downloads",
+    "scripting"
   ],
 
   "host_permissions": [
@@ -28,4 +32,4 @@
       "js": ["content.js"]
     }
   ]
-}       
+}
