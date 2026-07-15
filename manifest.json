@@ -2,9 +2,9 @@
   "manifest_version": 3,
 
   "name": "Glitch Reaper",
-  "version": "1.0",
+  "version": "2.0",
 
-  "description": "Automatically records browser activity and creates bug reports.",
+  "description": "Detects bugs.",
 
   "permissions": [
     "storage",
